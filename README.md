@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @naoseiseso
 - 👀 I’m interested in programing, video-games.
 - 🌱 I’m currently learning how to program.
-- 💞️ I’m looking to collaborate on roblox, discord.
-- 📫 How to reach me send an email to vilelasafonso@gmail.com or add me on discord naoseiseso#3446.
+- 💞️ I’m looking to collaborate on discord.
+- 📫 How to reach me send an email to vilelasafonso@gmail.com or add me on discord vafonso.
 
 <!---
 naoseiseso/naoseiseso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
